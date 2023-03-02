@@ -1,1 +1,1 @@
-# bootstrap-conference-website
+Le site pour le Premier colloque étudiant du CRIHN.
