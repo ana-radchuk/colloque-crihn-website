@@ -1,1 +1,1 @@
-# colloque-crihn-website
+# bootstrap-conference-website
